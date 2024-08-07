@@ -13,14 +13,13 @@
     {{-- FontAwesome 6 Pro --}}
     <link rel="stylesheet" href="/css/fontawesome/css/all.css">
 </head>
-{{-- Google Analytics--}}
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-TX4651GWPT"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EN1RZT9Y96"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-TX4651GWPT');
+  gtag('config', 'G-EN1RZT9Y96');
 </script>
 <body>
     @yield('main')
